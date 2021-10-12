@@ -1,0 +1,11 @@
+dbname: testdb
+user: <username>
+password: <password>
+host: <hostname>
+port: 5432
+
+gps_table: test_gps
+hr_table: test_hr
+acc_table: test_acc
+event_table: test_events
+activity_table: test_activity
